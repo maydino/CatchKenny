@@ -13,6 +13,7 @@
 		B104DACA263E219700E32BB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B104DAC9263E219700E32BB6 /* Assets.xcassets */; };
 		B104DACD263E219700E32BB6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B104DACC263E219700E32BB6 /* Preview Assets.xcassets */; };
 		B104DAD0263E219700E32BB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B104DACE263E219700E32BB6 /* LaunchScreen.storyboard */; };
+		B14783FA264F258D00ACEF1F /* EndGamePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B14783F9264F258D00ACEF1F /* EndGamePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B104DACC263E219700E32BB6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B104DACF263E219700E32BB6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B104DAD1263E219700E32BB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B14783F9264F258D00ACEF1F /* EndGamePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EndGamePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				B104DACE263E219700E32BB6 /* LaunchScreen.storyboard */,
 				B104DAD1263E219700E32BB6 /* Info.plist */,
 				B104DACB263E219700E32BB6 /* Preview Content */,
+				B14783F9264F258D00ACEF1F /* EndGamePage.swift */,
 			);
 			path = CatchTheKennySwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				B104DAC4263E219400E32BB6 /* AppDelegate.swift in Sources */,
 				B104DAC6263E219400E32BB6 /* SceneDelegate.swift in Sources */,
+				B14783FA264F258D00ACEF1F /* EndGamePage.swift in Sources */,
 				B104DAC8263E219400E32BB6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
