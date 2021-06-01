@@ -1,4 +1,4 @@
-# CatchKenny
+**Catch Kenny**
 
 Try to catch Kenny if you can!
 
